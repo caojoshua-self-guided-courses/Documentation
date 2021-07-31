@@ -1,6 +1,8 @@
 # Documentation
 All docs related to caojoshua's self guided courses. Includes things I've completed, and a bunch of things I may work on the future. The list is large and may get larger overtime, so I will probably never get to most things.
 
+I tend to favor courses that have many programming related assignments, and not as much handwritten assignments. Courses that offer slides or video lectures are both fine. Both undergraduate and graduate courses are suitable. For topics that I just want a quick intro to, I would lean towards undergraduate/quarter system courses. If I want more in-detph knowledge, than I prefer graduate/semester system courses.
+
 ## Completed Courses
 * [MIT 6.858 Computer Systems Security](https://github.com/caojoshua-self-guided-courses/MIT6.858)
 * [Stanford CS144 Intro to Computer Networking](https://github.com/caojoshua-self-guided-courses/StanfordCS144)
