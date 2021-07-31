@@ -1,4 +1,4 @@
-# Documentation
+# caojoshua's self guided courses wiki
 All docs related to caojoshua's self guided courses. Includes things I've completed, and a bunch of things I may work on the future. The list is large and may get larger overtime, so I will probably never get to most things.
 
 I tend to favor courses that have many programming related assignments, and not as much handwritten assignments. Courses that offer slides or video lectures are both fine. Both undergraduate and graduate courses are suitable. For topics that I just want a quick intro to, I would lean towards undergraduate/quarter system courses. If I want more in-detph knowledge, than I prefer graduate/semester system courses.
@@ -49,3 +49,4 @@ I tend to favor courses that have many programming related assignments, and not 
 * [Carnegie Mellon course catalog](http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/courses/)
 * [Illinois course catalog](http://catalog.illinois.edu/courses-of-instruction/cs/)
 * Apparently some schools don't know how to make a course catalog, but this list should be more than enough.
+* could maybe someday take a look at non-university courses ie. coursera, various cloud trainings
