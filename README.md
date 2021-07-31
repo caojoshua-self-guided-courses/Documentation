@@ -31,11 +31,13 @@ All docs related to caojoshua's self guided courses. Includes things I've comple
   * They claim to be implementation heavy
   * Some labs require special hardware ie. intel with SIMD instruction support, and nvidia GPU with CUDA support
 * [MIT Network and Computer Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-857-network-and-computer-security-spring-2014/)
+* Databases
 
 ### Other CS stuff
 * [Stanford CS 231n](https://cs231n.github.io/) seems like a good course for ML noobies, and labs are implementation based
 * Should just get better at algorithms in general, cause I'm bad. Could be a course or just read books.
 * Domain specific algs ie. crypto, optimizations, formal languages
+* graphics
 * Math: Differential Equations, Statistics, Abstract Algebra, combinatorics
 
 ### Where to find courses
