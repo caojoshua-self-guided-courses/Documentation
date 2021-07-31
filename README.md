@@ -10,7 +10,7 @@ All docs related to caojoshua's self guided courses. Includes things I've comple
 
 ### Systems and Software
 * [MIT 6.820 Fundamentals of Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/lecture-notes/). There are a lot of other program analysis class, but this one is included in MIT OCW and the material is the most accessible
-* [Stanford CS 243 Program Analysis and Optimization](CS243: Program Analysis and Optimization)
+* [Stanford CS 243 Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
   * Includes main compiler optimizations and alias analysis
   * About half of labs are programming, and the other half are handwritten problems and proofs
 * [Stanford CS 140E](https://github.com/dddrrreee/cs140e-20win)
