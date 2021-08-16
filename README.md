@@ -11,7 +11,14 @@ I tend to favor courses that have many programming related assignments, and not 
 ## Potential Future Courses
 
 ### Systems and Software
-* [MIT 6.820 Fundamentals of Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/lecture-notes/). There are a lot of other program analysis class, but this one is included in MIT OCW and the material is the most accessible
+* [MIT 6.820 Fundamentals of Program Analysis](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015/lecture-notes/). 
+  * There are a lot of other program analysis class, but this one is included in MIT OCW and the material is the most accessible
+  * Did the first assignment. Find the content hard with lack of video lecture, and slides are too barebone. Putting it on halt. Maybe try alternatives instead?
+  * About half of class is on type theory
+* [CMU 355](http://www.cs.cmu.edu/~aldrich/courses/17-355-18sp/index.html) Program Analysis
+  * alternative to MIT program analysis, although content is a little different. nothing on type theory.
+  * material is potentially better for self learning. quick glance shows they have detailed notes.
+  * CMU also offer a [grad class](https://www.cs.cmu.edu/~aldrich/courses/654/) but latest public offering is from 10ish years ago and they don't even publically release resources
 * [Stanford CS 243 Program Analysis and Optimization](https://suif.stanford.edu/~courses/cs243/)
   * Includes main compiler optimizations and alias analysis
   * About half of labs are programming, and the other half are handwritten problems and proofs
@@ -47,6 +54,6 @@ I tend to favor courses that have many programming related assignments, and not 
 * [Stanford course catalog](https://exploredegrees.stanford.edu/coursedescriptions/cs/)
 * [Berkeley course catalog](https://www2.eecs.berkeley.edu/Courses/CS/?_ga=2.141946482.1564342563.1627714936-599543816.1627714936)
 * [Carnegie Mellon course catalog](http://coursecatalog.web.cmu.edu/schools-colleges/collegeofengineering/departmentofelectricalandcomputerengineering/courses/)
-* [Illinois course catalog](http://catalog.illinois.edu/courses-of-instruction/cs/)
-* Apparently some schools don't know how to make a course catalog, but this list should be more than enough.
+* [Illinois course catalog](http://coursecatalog.web.cmu.edu/schools-colleges/schoolofcomputerscience/#coursestextcontainer)
+* Can't find course catalogs for some top CS schools, but this is enough
 * could maybe someday take a look at non-university courses ie. coursera, various cloud trainings
